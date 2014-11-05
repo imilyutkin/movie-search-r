@@ -4,6 +4,7 @@
   "description": "Sample for react js. Movie search",
   "main": "web.js",
   "scripts": {
+    "postinstall": "./node_modules/bower/bin/bower install",
     "start": "node web.js"
   },
   "dependencies": {
