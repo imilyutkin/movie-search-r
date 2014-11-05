@@ -1,0 +1,15 @@
+{
+  "name": "movie-search-react",
+  "version": "0.0.1",
+  "description": "Sample for react js. Movie search",
+  "main": "web.js",
+  "scripts": {
+    "start": "node web.js"
+  },
+  "dependencies": {
+    "bower": "^1.3.12",
+    "express": "^4.10.1",
+    "gulp": "^3.8.10"
+  },
+  "devDependencies": {}
+}
