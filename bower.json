@@ -1,0 +1,18 @@
+{
+  "name": "movie-search-react",
+  "version": "0.0.0",
+  "homepage": "https://github.com/imilyutkin/movie-search-r",
+  "authors": [
+    "Ivan Milyutkin <ivan.milyutkin@gmail.com>"
+  ],
+  "description": "Sample for react js. Movie search",
+  "main": "web.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
